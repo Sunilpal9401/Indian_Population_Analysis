@@ -1,6 +1,8 @@
 # Indian_Population_Analysis
 
- A general overview of the Indian population using Power BI. Power BI is a powerful business analytics tool developed by Microsoft that allows users to visualize and analyze data.
+ A project using Power BI to analyze Indian population data! This project involved delving into various datasets to gain insights into demographics, trends, and other factors shaping the world's second-most populous country.
+ This project has not only enhanced my skills in data analysis and visualization using Power BI, but it has also given me a deeper understanding of India's population dynamics.
+ Power BI is a powerful business analytics tool developed by Microsoft that allows users to visualize and analyze data.
 
 
 ## Live DashBoard Link
