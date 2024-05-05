@@ -1,5 +1,14 @@
 # Indian_Population_Analysis
 
+
+## Live DashBoard Link
+[Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiYjI5ODhhYjktZWQ2MS00NDQ3LWJiMjMtZWE5MmY3MzJhNWU4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
+## Dashboard Demo
+
+https://github.com/Sunilpal9401/Indian_Population_Analysis/assets/62985832/cf85f2c9-b48c-43b1-94ee-e09ac3e90b7b
+
+
 ![App Screenshot](https://github.com/Sunilpal9401/Indian_Population_Analysis/blob/main/Population.jpg?raw=true)
 
 ## Problem Statements and Approach
