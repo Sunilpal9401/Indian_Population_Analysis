@@ -5,8 +5,8 @@
  Power BI is a powerful business analytics tool developed by Microsoft that allows users to visualize and analyze data.
 
 
-## Live DashBoard Link
-[Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiYjI5ODhhYjktZWQ2MS00NDQ3LWJiMjMtZWE5MmY3MzJhNWU4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+# Live DashBoard Link
+[Live Dashboard Link](https://project.novypro.com/OaNGvL)
 
 ## Dashboard Demo
 
